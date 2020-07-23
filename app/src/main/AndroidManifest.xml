@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".pratikactivity"></activity>
+        <activity android:name=".gaurav"></activity>
+        <activity android:name=".KailashActivity"></activity>
+        <activity android:name=".AsuraXXXXX"></activity>
+        <activity android:name=".KjActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
