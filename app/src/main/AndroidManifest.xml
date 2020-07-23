@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+        <activity android:name=".gaurav"></activity>
         <activity android:name=".KailashActivity"></activity>
         <activity android:name=".AsuraXXXXX"></activity>
         <activity android:name=".KjActivity"></activity>
